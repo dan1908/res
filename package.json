@@ -1,7 +1,7 @@
 {
-  "name": "wp-nuxt",
+  "name": "wp",
   "version": "1.0.0",
-  "description": "Headless WordPress with Nuxt",
+  "description": "WordPress sin cabeza con Nuxt",
   "author": "geoffgraham and sdras",
   "private": true,
   "scripts": {
