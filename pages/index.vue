@@ -13,7 +13,7 @@
         </div>
       </main>
       <aside>
-        <h2 class="tags-title">Tags</h2>
+        <h2 class="tags-title">Etiquetas</h2>
         <div class="tags-list">
           <ul>
             <li
