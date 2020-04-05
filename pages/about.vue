@@ -1,6 +1,6 @@
 <template>
-  <div class="Acerca de">
-    <h1>About</h1>
+  <div class="about">
+    <h1>Acerca de</h1>
     <p>Realmente no sabemos a dónde va esto, y no estoy seguro de que realmente nos importe. Si estas líneas no son rectas, el agua saldrá directamente de la pintura y mojará el piso. Si haces demasiado, perderá su efectividad</p>
     <p>Creas el sueño, luegI like to beat the brush. You want your tree to have some character. Make it special. We don't have to be committed. We are just playing here. If it's not what you want - stop and change it. Don't just keep going and expect it will get better. But they're very easily killed. Clouds are delicate.o lo traes a tu mundo. No necesitamos pautas ni formatos. Todo lo que tenemos que hacer es dejar que fluya de nosotros. Pobre árbol viejo. Tal vez hay algo pasando aquí.</p>
     <p>Me gusta batir el pincel. Quieres que tu árbol tenga algún carácter. Hazlo especial. No tenemos que estar comprometidos. Solo estamos jugando aquí. Si no es lo que quieres, detente y cámbialo. No siga adelante y espere que mejore. Pero son muy fáciles de matar. Las nubes son delicadas.</p>
